@@ -55,6 +55,14 @@
     "symbol": "TBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11224/thumb/tBTC.png?1589620754"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1C8Cf5f43768cE4dFB1110674A91990CBbb6d21d",
+    "name": "Dinastycoin",
+    "symbol": "DC",
+    "decimals": 18,
+    "logoURI": ""
   }
   ],
   "version": {
