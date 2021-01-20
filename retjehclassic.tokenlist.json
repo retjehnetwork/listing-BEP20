@@ -2,8 +2,8 @@
   "name": "Retjehswap list",
   "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
   "keywords": [
-    "sushiswap",
-    "sushi",
+    "retjehswap",
+    "retjeh",
     "swap"
   ],
   "timestamp": "2020-09-01T00:00:00+00:00",
@@ -55,19 +55,11 @@
     "symbol": "TBTC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/11224/thumb/tBTC.png?1589620754"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1C8Cf5f43768cE4dFB1110674A91990CBbb6d21d",
-    "name": "Dinastycoin",
-    "symbol": "DC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295"
   }
   ],
   "version": {
-    "major": 17,
+    "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
