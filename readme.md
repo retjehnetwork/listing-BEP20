@@ -43,6 +43,5 @@ Once added, tokens are also re-reviewed at regular intervals in order to maintai
 
 ### Criteria
 
-- Volume
 - Liquidity
 - Community feedback
