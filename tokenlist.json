@@ -14,7 +14,7 @@
       "name": "Retjeh Network",
       "symbol": "RET",
       "address": "0x87486c4baafeb1d3abd7eed3af5bdd3f26643a89",
-      "chainId": 97,
+      "chainId": 56,
       "decimals": 18,
       "logoURI": "/assets/RET.png"
     },
