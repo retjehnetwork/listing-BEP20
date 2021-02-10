@@ -1,5 +1,5 @@
 {
-  "name": "AARet default",
+  "name": "AAARetjeh",
   "timestamp": "2020-08-25T15:41:29.665Z",
   "version": {
     "major": 1,
@@ -74,12 +74,41 @@
       "logoURI": "/assets/BTC-icon.png"
     },
     {
+      "name": "EOS Token",
+      "symbol": "EOS",
+      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/assets/eos.png"
+    },
+    {
       "name": "Tether USD",
       "symbol": "USDT",
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/assets/USDT-icon.png"
+    },
+    {
+      "name": "Cardano Token",
+      "symbol": "ADA",
+      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Cosmos Token",
+      "symbol": "ATOM",
+      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Tezos Token",
+      "symbol": "XTZ",
+      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "chainId": 56,
+      "decimals": 18
     },
     {
       "name": "Dai Token",
@@ -90,9 +119,30 @@
       "logoURI": "/assets/DAI-icon.png"
     },
     {
+      "name": "YFII.finance Token",
+      "symbol": "YFII",
+      "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Polkadot Token",
+      "symbol": "DOT",
+      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
       "chainId": 56,
       "decimals": 18
     },
@@ -103,7 +153,28 @@
       "chainId": 56,
       "decimals": 18
     },
-      {
+    {
+      "name": "AlphaToken",
+      "symbol": "ALPHA",
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Beefy.finance",
+      "symbol": "BIFI",
+      "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "yearn.finance",
+      "symbol": "YFI",
+      "address": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "name": "Uniswap",
       "symbol": "UNI",
       "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
@@ -111,17 +182,30 @@
       "decimals": 18
     },
     {
-      "name": "StableXSwap",
-      "symbol": "STAX",
-      "address": "0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4",
+      "name": "Filecoin",
+      "symbol": "FIL",
+      "address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/assets/STAX.png"
+      "decimals": 18
     },
     {
-      "name": "Injective Protocol",
-      "symbol": "INJ",
-      "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
+      "name": "USDX",
+      "symbol": "USDX",
+      "address": "0x1203355742e76875154c0d13eb81dcd7711dc7d9",
+      "chainId": 56,
+      "decimals": 6
+    },
+    {
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "chainId": 56,
+      "decimals": 18
+    }
+    {
+      "name": "Tenet",
+      "symbol": "TEN",
+      "address": "0xdff8cb622790b7f92686c722b02cab55592f152c",
       "chainId": 56,
       "decimals": 18
     }
