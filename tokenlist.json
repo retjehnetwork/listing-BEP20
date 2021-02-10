@@ -14,7 +14,7 @@
       "name": "Retjeh Network",
       "symbol": "RET",
       "address": "0x87486c4baafeb1d3abd7eed3af5bdd3f26643a89",
-      "chainId": 56,
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "/assets/RET.png"
     },
@@ -201,7 +201,7 @@
       "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "chainId": 56,
       "decimals": 18
-    }
+    },
     {
       "name": "Tenet",
       "symbol": "TEN",
